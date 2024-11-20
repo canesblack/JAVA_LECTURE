@@ -3,8 +3,10 @@ package p1_Variable;
 public class Main {
     public static void main(String[] args) {
         
-    	String namebox = "김민지";
-    	
+    	int box = 1;
+    	//데이터타입은 int(정수)
+    	// box는 변수명
+    	// 값은 1
     	
         // 정수형 (Integer Type)
         // int: 정수를 표현하는 자료형, 양수, 음수, 0을 포함할 수 있습니다.
